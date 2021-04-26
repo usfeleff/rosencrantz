@@ -1,7 +1,7 @@
 # rosencrantz
 ## lis4370_final project_R rosencrantz package
 
-please see the accomponaying blog post at: https://thestorythusr.wordpress.com/wp-admin/post.php?post=1045&action=edit
+please see the accomponaying blog post at: https://thestorythusr.wordpress.com/2021/04/26/r-rosencrantz-package/
 
 
 The rosencrantz package is a suite of functions for simulating various types of 
