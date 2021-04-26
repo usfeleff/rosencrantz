@@ -3,12 +3,16 @@ Type: Package
 Title: Probability Simulation and Odds Translation Suite
 Version: 0.0.0.9000
 Author: Brandon Eleff
-Maintainer: Brandon Eleff <eleff at usf.edu>
+Maintainer: Brandon Eleff <eleff@usf.edu>
 Description: This package contains various probability simulations with a focus
     on classic experiments such as coin flips, decks of cards and rolling dice.
     It also contains functions to translate odds into their equivalents in
     terms of such experiments.
 Depends: R (>= 4.0.0)
-License: CC0
+License: GPL-3 + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
