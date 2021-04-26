@@ -1,5 +1,5 @@
 # rosencrantz
-lis4370_final project_R rosencrantz package
+## lis4370_final project_R rosencrantz package
 
 The rosencrantz package is a suite of functions for simulating various types of 
 classical probability experiments generally encountered in an undergraduate 
@@ -13,6 +13,8 @@ or mathematically calculate the probabilities, masses, expectations, or any
 of the various other mathematical constructs related to these experiments.
 Instead, it provides a set of tools by which you could determine these things
 experimentally.
+
+***
 
 Of the various functions and experiments the most interesting is the "rosencrantz"
 by which the package gets its name.
@@ -33,3 +35,19 @@ and find out how many flips it took before it was succesful.
 landed on heads 92 flips in a row. Roughly 1 in 10^27. You should not attempt
 to run such an experiment, as you will be waiting a very, very long time for it
 to finish, assuming your system does not crash altogether.) 
+
+***
+
+Experiment Type | Status
+--------------- | ----------------
+rosencrantz     | implemented
+dice            | implemented
+coins           | implemented
+covers(lottery) | in progress
+cards           | next
+bingo           | next
+darts           | future
+balls and urns  | future
+monte carlo     | future
+roulette        | future
+monty hall      | future

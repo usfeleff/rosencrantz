@@ -11,8 +11,8 @@
 #' @return returns the results (individual rolls, or sums) as a list
 #' @export
 #' @examples
-#' rolldice(nSides = 6, nDice = 3, nRolls = 2, sum = FALSE)
-rolldice <- function(nSides = 6, nDice = 1, nTimes = 1, sum = FALSE) {
+#' rollDice(nSides = 6, nDice = 3, nTimes = 2, sum = FALSE)
+rollDice <- function(nSides = 6, nDice = 1, nTimes = 1, sum = FALSE) {
 
   outcomes <- c(1:nSides)
   results <- list()
