@@ -1,6 +1,9 @@
 # rosencrantz
 ## lis4370_final project_R rosencrantz package
 
+please see the accomponaying blog post at: https://thestorythusr.wordpress.com/wp-admin/post.php?post=1045&action=edit
+
+
 The rosencrantz package is a suite of functions for simulating various types of 
 classical probability experiments generally encountered in an undergraduate 
 probability course.
